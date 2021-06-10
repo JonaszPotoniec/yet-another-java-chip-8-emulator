@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.Pane?>
+
+<AnchorPane maxHeight="256.0" maxWidth="512.0" minHeight="256.0" minWidth="512.0" prefHeight="256.0" prefWidth="512.0" style="-fx-background-color: #7DB7A3;" xmlns="http://javafx.com/javafx/11" xmlns:fx="http://javafx.com/fxml/1" fx:controller="emulator.Controller">
+   <children>
+      <Pane id="fx:gamePane" fx:id="gamePane" focusTraversable="true" maxHeight="256.0" maxWidth="512.0" minHeight="256.0" minWidth="512.0" prefHeight="256.0" prefWidth="512.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0" />
+   </children>
+</AnchorPane>
